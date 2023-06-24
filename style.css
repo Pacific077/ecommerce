@@ -30,7 +30,7 @@
    text-shadow: 2px 4px 1px grey;
 }
 .aboutbg{
-    background-image: url(/contents/background/aboutbg.jpg) !important;
+    background-image: url(contents/background/aboutbg.jpg) !important;
     background-size: cover !important;
     height: 300px;
 }
@@ -273,14 +273,14 @@ thead td:nth-child(6){
     transition: 0.3s ease;
 }
 .baner2 .item1{
-background-image: url(/contents/banner/frst1.jpg);
+background-image: url(contents/banner/frst1.jpg);
 height: 200px;
     width: 300px;
     background-size: contain;
     /* opacity: 0.7; */
 }
 .baner2 .item2{
-    background-image: url(/contents/banner/frs2.jpg);
+    background-image: url(contents/banner/frs2.jpg);
     height: 200px;
     width: 300px;
     background-size: contain;
@@ -289,12 +289,12 @@ height: 200px;
 .baner2 .item3{
     /* opacity: 0.7; */
     background-size: contain;
-background-image: url(/contents/banner/frs3.jpg);
+background-image: url(contents/banner/frs3.jpg);
 height: 200px;
     width: 300px;
 }
 .blogbg{
-    background-image: url(/contents/background/blog.jpg) !important;
+    background-image: url(contents/background/blog.jpg) !important;
     background-size: cover !important;
 }
 body{
@@ -305,7 +305,7 @@ body{
 .bogo{
     border-radius: 10px;
     margin-top: 40px;
-    background-image: url(/contents/banner/yellowback.jpg);
+    background-image: url(contents/banner/yellowback.jpg);
     background-size: contain;
     height: 400px;
     width: 650px;
@@ -564,7 +564,7 @@ box-shadow: 10px 10px 4px grey;
     justify-content: space-between;
 }
 .last{
-    background-image: url(/contents/background/nightblur.jpg);
+    background-image: url(contents/background/nightblur.jpg);
     background-size: contain;
     height: 400px;
     padding-top: 20px;
@@ -705,7 +705,7 @@ section{
 
 }
 .shophomebg{
-    background-image: url(/contents/shop/bg/city.jpg);
+    background-image: url(contents/shop/bg/city.jpg);
     background-size: cover;
     background-position: center;
     height: 300px;
@@ -718,7 +718,7 @@ section{
     padding-right: 80px;
     padding-top: 40px;
     padding-bottom: 40px;
-    background-image: url(/contents/background/woodbg.jpg);
+    background-image: url(contents/background/woodbg.jpg);
     background-size: contain;
     margin-bottom: 20px;
 }
@@ -769,7 +769,7 @@ section{
 .upcoming{
     height: 400px;
     width: 650px;
-    background-image: url(/contents/banner/banner2.jpg);
+    background-image: url(contents/banner/banner2.jpg);
     background-size: contain;
     margin-top: 40px;
     box-shadow: 20px 20px 8px #27374D;
